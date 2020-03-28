@@ -1,0 +1,12 @@
+{
+  "name": "show-my-hand",
+  "version": "0.0.1",
+  "description": "coordinates who speaks next in video call",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
